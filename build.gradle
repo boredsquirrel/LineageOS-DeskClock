@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.android.deskclock'
+    namespace 'org.lineageos.deskclock'
     compileSdk 34
 
     defaultConfig {
